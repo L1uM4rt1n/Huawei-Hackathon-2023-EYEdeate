@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+        <mxGraphModel dx="968" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="jlnBKdemnhMmPyVvC5mi-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/devops/build_test.svg;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="50" width="190" height="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
