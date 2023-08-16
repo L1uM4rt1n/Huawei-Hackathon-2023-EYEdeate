@@ -1,1 +1,3 @@
-# huawei2023_personal
+# Huawei Developer Competition 2023
+
+### Software Architecture Diagram
