@@ -22,5 +22,6 @@
 ~~~
 8. The same set of cleaned data, along with the unique ID will be passed into the Huawei Elastic Load Balancer, which manages the load on the backend server, reducing the potential downtime / slowness which will affect user's ease of use of huawei's product
 9. Both steps 8 and 9 run concurrently and will not have a clash with one another
-10. The output from the machine learning model will be in the form of a string in a text file, to be sent to the Session Manager which directs the exact output back to its original device
-11. The device will then be using a built-in Text-to-Speech function by taking in the string input and output as a sound to the user.
+10. The machine model to be used will be the latest model from the container
+11. The output from the machine learning model will be in the form of a string in a text file, to be sent to the Session Manager which directs the exact output back to its original device
+12. The device will then be using a built-in Text-to-Speech function by taking in the string input and output as a sound to the user.
