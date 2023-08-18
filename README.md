@@ -5,7 +5,7 @@
 ![Software Architecture Diagram](images/mockup5.png)
 1. A user will input voice command to tell smart watch or smartphone what he/she would like to do through the Speech Interaction Service
 2. The device will then scan the image / text through the built-in camera function
-3. The data retrieved from scanning will be stored with a unique identifier, the ID of the device.
+3. The data retrieved from scanning will be stored with a unique identifier, the ID of the device
 4. The image file will be passed through Huawei's Optical Character Recognition (OCR) solution to extract the text from the image <br>
 &nbsp;&nbsp;&nbsp;&nbsp; a. Both the text and the image will then go through a Data Cleaning process <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - e.g. image re-sizing, image enhancing <br>
