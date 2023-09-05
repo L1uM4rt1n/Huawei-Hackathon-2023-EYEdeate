@@ -1,7 +1,7 @@
 # Huawei Developer Competition 2023
 
 ### Software Architecture Diagram
-<!-- create tag to input image of mockup3.png from imgaes directory -->
+<!-- create tag to input image of mockup6.png from imgaes directory -->
 ![Software Architecture Diagram](images/mockup5.png)
 1. A user will input voice command to tell smart watch or smartphone what he/she would like to do through the Speech Interaction Service
 2. The device will then scan the image / text through the built-in camera function
